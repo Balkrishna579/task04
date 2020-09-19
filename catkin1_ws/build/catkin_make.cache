@@ -1,0 +1,2 @@
+CombinedInfo:first:move
+-DCATKIN_DEVEL_PREFIX=/home/lenovo/catkin1_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lenovo/catkin1_ws/install -G Unix Makefiles

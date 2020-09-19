@@ -1,0 +1,8 @@
+prefix=/home/lenovo/catkin1_ws/devel
+
+Name: CombinedInfo
+Description: Description of CombinedInfo
+Version: 0.0.0
+Cflags: -I/home/lenovo/catkin1_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs geometry_msgs message_runtime

@@ -1,0 +1,8 @@
+prefix=/home/lenovo/catkin1_ws/install
+
+Name: srvclint
+Description: Description of srvclint
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs message_runtime
