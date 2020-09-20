@@ -9,4 +9,6 @@ Ros folder for this project and in the src folder of this contains the python fi
 ros subscriber which subscribe to topic and also the CombinedInfo folder contains the msg folder
 which contains two message file required for this
 
-In assets folder there is 4 script file movm
+In assets folder there is 4 script file movem file contains code for controlling player
+movement an the datmanager is the script file for handling message and continfo is file for
+rosbridge publisher and also it contains the message file required for this
